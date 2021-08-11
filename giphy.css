@@ -1,0 +1,40 @@
+body {
+  background-color: #151021;
+}
+
+h1,
+p {
+  text-align: center;
+  color: white;
+}
+
+.carousel .carousel-item {
+  height: 500px;
+}
+
+.imageSize {
+  display: block;
+  object-fit: cover;
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 500px;
+}
+
+button {
+  margin-bottom: 30px;
+  display: flex;
+  /* align-items: center; */
+  /* justify-content: center; */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  z-index: 100;
+  /* margin-top: -50px; */
+  padding-top: 2%;
+}
+
+p {
+  padding-top: 2%;
+}
